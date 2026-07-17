@@ -1,173 +1,170 @@
 [
-
   {
-
     "id": 1,
-
     "title": "React JS Masterclass",
-
-    "description": "Learn React from beginner to advanced.",
-
+    "description": "Learn React from beginner to advanced with real-world projects.",
     "price": "₹999",
-
-    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee"
-
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80",
+    "duration": "8 Weeks",
+    "level": "Beginner",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.9",
+    "students": "15,000+",
+    "mentor": "John Smith"
   },
-
   {
-
     "id": 2,
-
     "title": "Java Programming",
-
-    "description": "Complete Java programming course.",
-
+    "description": "Master Java programming from basics to advanced concepts.",
     "price": "₹799",
-
-    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
-
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&q=80",
+    "duration": "10 Weeks",
+    "level": "Intermediate",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.8",
+    "students": "12,500+",
+    "mentor": "James Anderson"
   },
-
   {
-
     "id": 3,
-
     "title": "Python Bootcamp",
-
-    "description": "Learn Python with real projects.",
-
+    "description": "Learn Python with real-world projects and practical examples.",
     "price": "₹899",
-
-    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935"
-
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&q=80",
+    "duration": "9 Weeks",
+    "level": "Beginner",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.9",
+    "students": "18,000+",
+    "mentor": "Emily Watson"
   },
-
   {
-
     "id": 4,
-
     "title": "Web Development",
-
-    "description": "HTML, CSS, JavaScript and React.",
-
+    "description": "Learn HTML, CSS, JavaScript and React by building projects.",
     "price": "₹1199",
-
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
-
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80",
+    "duration": "12 Weeks",
+    "level": "Beginner",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "5.0",
+    "students": "20,000+",
+    "mentor": "David Wilson"
   },
-
   {
-
     "id": 5,
-
     "title": "Artificial Intelligence",
-
-    "description": "Introduction to AI concepts.",
-
+    "description": "Understand AI concepts and build intelligent applications.",
     "price": "₹1499",
-
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995"
-
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "duration": "14 Weeks",
+    "level": "Advanced",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.9",
+    "students": "8,500+",
+    "mentor": "Sophia Brown"
   },
-
   {
-
     "id": 6,
-
     "title": "Data Science",
-
-    "description": "Data analysis and visualization.",
-
+    "description": "Learn Data Analysis, Visualization and Machine Learning basics.",
     "price": "₹1299",
-
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
-
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+    "duration": "11 Weeks",
+    "level": "Intermediate",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.8",
+    "students": "10,000+",
+    "mentor": "Michael Johnson"
   },
-
-  {
-
+    {
     "id": 7,
-
     "title": "Node.js",
-
-    "description": "Backend development with Node.js.",
-
+    "description": "Learn backend development with Node.js, Express and REST APIs.",
     "price": "₹999",
-
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
-
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+    "duration": "9 Weeks",
+    "level": "Intermediate",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.8",
+    "students": "13,000+",
+    "mentor": "Daniel Carter"
   },
-
   {
-
     "id": 8,
-
     "title": "MongoDB",
-
-    "description": "Master NoSQL database.",
-
+    "description": "Master MongoDB database with CRUD operations and projects.",
     "price": "₹699",
-
-    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
-
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.7",
+    "students": "9,500+",
+    "mentor": "Olivia Davis"
   },
-
   {
-
     "id": 9,
-
     "title": "Flutter Development",
-
-    "description": "Build Android and iOS apps.",
-
+    "description": "Build Android and iOS applications using Flutter and Dart.",
     "price": "₹1099",
-
-    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c"
-
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&q=80",
+    "duration": "10 Weeks",
+    "level": "Intermediate",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.9",
+    "students": "11,000+",
+    "mentor": "Emma Wilson"
   },
-
   {
-
     "id": 10,
-
     "title": "UI/UX Design",
-
-    "description": "Design beautiful user interfaces.",
-
+    "description": "Design beautiful and user-friendly interfaces with Figma.",
     "price": "₹899",
-
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f"
-
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
+    "duration": "7 Weeks",
+    "level": "Beginner",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.8",
+    "students": "14,000+",
+    "mentor": "Sophia Miller"
   },
-
   {
-
     "id": 11,
-
     "title": "Machine Learning",
-
-    "description": "ML algorithms and projects.",
-
+    "description": "Learn Machine Learning algorithms with practical projects.",
     "price": "₹1599",
-
-    "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a"
-
+    "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?w=1200&q=80",
+    "duration": "14 Weeks",
+    "level": "Advanced",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "5.0",
+    "students": "7,500+",
+    "mentor": "Robert Thomas"
   },
-
   {
-
     "id": 12,
-
     "title": "Cyber Security",
-
-    "description": "Protect systems from attacks.",
-
+    "description": "Learn ethical hacking, cyber security and network protection.",
     "price": "₹1399",
-
-    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3"
-
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&q=80",
+    "duration": "12 Weeks",
+    "level": "Advanced",
+    "language": "English",
+    "certificate": "Yes",
+    "rating": "4.9",
+    "students": "8,800+",
+    "mentor": "William Scott"
   }
 ]
-
- 
-
